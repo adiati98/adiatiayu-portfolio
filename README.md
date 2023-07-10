@@ -1,6 +1,6 @@
 # Welcome to Ayu Adiati's portfolio!
 
-This is a work in progress as I'm learning NextJS and Tailwind 😊.
+This portfolio project is a work in progress as I'm learning NextJS and Tailwind 😊.
 
 ---
 
