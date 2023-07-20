@@ -1,5 +1,10 @@
 import Link from "next/link"
 
+export const metadata = {
+	title: "Ayu Adiati | Contact Ayu",
+	description: "Contact Ayu",
+}
+
 export default function Contact() {
 	return (
 		<>

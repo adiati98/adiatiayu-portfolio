@@ -1,5 +1,10 @@
 import Link from "next/link"
 
+export const metadata = {
+	title: "Ayu Adiati | About Ayu",
+	description: "About Ayu Adiati",
+}
+
 export default function AboutMe() {
 	return (
 		<>
