@@ -2,6 +2,8 @@
 
 This portfolio project is a work in progress as I'm learning NextJS and Tailwind 😊.
 
+I write my learning and building progress in a series that you can find on [adiati.com](https://adiati.com/series/portfolio-nextjs) or [DEV Community (dev.to)](https://dev.to/adiatiayu/series/23706).
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
